@@ -65,10 +65,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building thin
 
 ## 🏆 Featured Projects
 
-### [TrabaGo](https://github.com/lenoj1111/TrabaGo)
+### [TrabaGo](https://github.com/Leztra1/TrabaGo-Main)
 A comprehensive Web and Mobile-Based Integrated Manpower Referral, Training, and Employer Management System designed for the Department of Manpower Development and Placement in Cebu City. Built to streamline job matching and employer relations, this project utilizes a Laravel PHP backend with Blade templates, alongside a modern frontend using Vite, React (TSX/JS), and Tailwind CSS for responsive styling.
 
-### [LIONG-2.0](https://github.com/Leztra1/LIONG-2.0)
+### [LIONG-2.0](https://github.com/Leztra1/LIONG-Main)
 An integrated inventory management system developed for Liong Garments. This system is designed to streamline daily operations by providing real-time tracking of stock levels, managing product flows, and simplifying the recording of incoming and outgoing goods to ensure efficient business management.
 
 ## 🤝 Connect with Me
