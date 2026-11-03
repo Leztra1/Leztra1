@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building thin
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[current project]**
-- 🌱 I'm currently learning **[technology/skill]**
-- 👯 I'm looking to collaborate on **[type of project]**
-- 💬 Ask me about **[your expertise]**
-- 📫 How to reach me: **[your email]**
-- ⚡ Fun fact: **[something interesting about you]**
+- 🔭 I'm currently working on **[TrabaGo](https://github.com/lenoj1111/TrabaGo)** — a project I'm actively developing and refining with friends.
+- 🌱 I'm currently learning **how to vibe-code efficiently**. I'm fascinated by the future of AI-assisted development and how tools like this can accelerate building, prototyping, and problem-solving.
+- 👯 I'm looking to collaborate on **AI-assisted coding projects or anything built using a vibe-coding workflow**. I love seeing what others are creating with next-gen tools.
+- 💬 Ask me about **vibe-coding, creative problem-solving, or game testing**. I enjoy tackling technical challenges and figuring out how to make things work from a user's perspective.
+- 📫 How to reach me: **artzeldiaz13@gmail.com**
+- ⚡ Fun fact: **I love playing, experimenting, and breaking things (intentionally) through game testing.** For me, vibe-coding is a fun sandbox for exploring new ideas and just seeing what I can build!
 
 ## 🛠️ Tech Stack
 
