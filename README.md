@@ -46,15 +46,22 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building thin
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Leztra1's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Leztra1&show_icons=true&theme=radical)
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leztra1&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leztra1&theme=radical" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Leztra1&layout=compact&theme=radical)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Leztra1&theme=radical)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Leztra1&theme=radical&hide_border=true&background=141321&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakNum=8A2BE2&sideNums=8A2BE2&currStreakLabel=ffffff&sideLabels=ffffff&dates=38B2AC" alt="GitHub Streak" />
+</div>
 
 ## 🏆 Featured Projects
 
