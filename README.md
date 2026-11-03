@@ -17,9 +17,12 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building thin
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 **Languages & Core**
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -49,16 +52,16 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building thin
 
 ## 🏆 Featured Projects
 
-### [Project Name 1](https://github.com/Leztra1/project-1)
-Brief description of what this project does and why it's cool.
+### [TrabaGo](https://github.com/lenoj1111/TrabaGo)
+A comprehensive Web and Mobile-Based Integrated Manpower Referral, Training, and Employer Management System designed for the Department of Manpower Development and Placement in Cebu City. Built to streamline job matching and employer relations, this project utilizes a Laravel PHP backend with Blade templates, alongside a modern frontend using Vite, React (TSX/JS), and Tailwind CSS for responsive styling.
 
-### [Project Name 2](https://github.com/Leztra1/project-2)
-Brief description of what this project does and why it's cool.
+### [LIONG-2.0](https://github.com/Leztra1/LIONG-2.0)
+An integrated inventory management system developed for Liong Garments. This system is designed to streamline daily operations by providing real-time tracking of stock levels, managing product flows, and simplifying the recording of incoming and outgoing goods to ensure efficient business management.
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/artzel.diaz.ii/)
+[![Discord](https://img.shields.io/badge/-Discord_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/sAtGX9qju)
 
 ---
 
