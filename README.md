@@ -39,9 +39,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building thin
 
 ## 📊 GitHub Stats
 
-![Leztra1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leztra1&show_icons=true&theme=radical)
+![Leztra1's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Leztra1&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leztra1&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Leztra1&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
 
