@@ -1,5 +1,9 @@
 # Hi there, I'm Leztra1 👋
 
+[![Facebook](https://img.shields.io/badge/Facebook-Artzel_Diaz-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/artzel.diaz.ii/)
+![Location](https://img.shields.io/badge/Location-Philippines-2ea44f?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Leztra1&color=8a2be2&style=for-the-badge&label=Profile+Views)
+
 Welcome to my GitHub profile! I'm a passionate developer who loves building things and learning new technologies.
 
 ## 🚀 About Me
