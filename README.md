@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building thin
 - 🌱 I'm currently learning **how to vibe-code efficiently**. I'm fascinated by the future of AI-assisted development and how tools like this can accelerate building, prototyping, and problem-solving.
 - 👯 I'm looking to collaborate on **AI-assisted coding projects or anything built using a vibe-coding workflow**. I love seeing what others are creating with next-gen tools.
 - 💬 Ask me about **vibe-coding, creative problem-solving, or game testing**. I enjoy tackling technical challenges and figuring out how to make things work from a user's perspective.
-- 📫 How to reach me: **artzeldiaz13@gmail.com**
+- 📫 How to reach me: **artzeldiaz14@gmail.com**
 - ⚡ Fun fact: **I love playing, experimenting, and breaking things (intentionally) through game testing.** For me, vibe-coding is a fun sandbox for exploring new ideas and just seeing what I can build!
 
 ## 🛠️ Tech Stack
